@@ -3,7 +3,7 @@
         {
             "id": "OLJCESPC7Z",
             "name": "WebEx Glasses",
-            "description": "Add a modern touch to your outfits with these sleek aviator sunglasses.",
+            "description": "Provides an immersive collaboration experience that supports natural voice commands, gestures on touchpad, and head movements to accomplish routine tasks.",
             "picture": "/static/img/products/webex-glasses.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
@@ -14,99 +14,99 @@
         },
         {
             "id": "66VCHSJNUP",
-            "name": "Tank Top",
-            "description": "Perfectly cropped cotton tank, with a scooped neckline.",
-            "picture": "/static/img/products/tank-top.jpg",
+            "name": "Kubernetes Networking eBook",
+            "description": "Written by network engineers for network engineers",
+            "picture": "/static/img/products/kubernetes-ebook-cover.png",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 18,
                 "nanos": 990000000
             },
-            "categories": ["clothing", "tops"]
+            "categories": ["home"]
         },
         {
             "id": "1YMWWN1N4O",
-            "name": "Watch",
-            "description": "This gold-tone stainless steel watch will work with most of your outfits.",
-            "picture": "/static/img/products/watch.jpg",
+            "name": "Cisco 40th Anniversary Tumbler - White",
+            "description": "Keep your drinks at the perfect temperature with this sleek thermal tumbler. Crafted from double-wall stainless steel with copper vacuum insulation, it ensures superior temperature retention. Ideal for both hot and cold beverages, this tumbler combines function and style seamlessly!",
+            "picture": "/static/img/products/tumbler.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 109,
+                "units": 25,
                 "nanos": 990000000
             },
             "categories": ["accessories"]
         },
         {
             "id": "L9ECAV7KIM",
-            "name": "Loafers",
-            "description": "A neat addition to your summer wardrobe.",
-            "picture": "/static/img/products/loafers.jpg",
+            "name": "Cisco Socks",
+            "description": "It is time to level up your sock collection! Whether at the office or lounging at home, these socks will keep you comfy and looking stylish.",
+            "picture": "/static/img/products/cisco-socks.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 89,
+                "units": 19,
                 "nanos": 990000000
             },
             "categories": ["footwear"]
         },
         {
             "id": "2ZYFJ3GM2N",
-            "name": "Hairdryer",
-            "description": "This lightweight hairdryer has 3 heat and speed settings. It's perfect for travel.",
-            "picture": "/static/img/products/hairdryer.jpg",
+            "name": "CCIE Badge Reel",
+            "description": "Show off your CCIE certification everyday at work.",
+            "picture": "/static/img/products/ccie-badge-reel.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 24,
+                "units": 4,
                 "nanos": 990000000
             },
-            "categories": ["hair", "beauty"]
+            "categories": ["beauty"]
         },
         {
             "id": "0PUK6V6EV0",
-            "name": "Candle Holder",
-            "description": "This small but intricate candle holder is an excellent gift.",
-            "picture": "/static/img/products/candle-holder.jpg",
+            "name": "Cisco Meraki Playing Cards",
+            "description": "Standard deck of playing cards, sized 57 x 87mm. Printed on the back of the cards with the Cisco Meraki design on a black background.",
+            "picture": "/static/img/products/cisco-meraki-cards.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 18,
+                "units": 3,
                 "nanos": 990000000
             },
             "categories": ["decor", "home"]
         },
         {
             "id": "LS4PSXUNUM",
-            "name": "Salt & Pepper Shakers",
-            "description": "Add some flavor to your kitchen.",
-            "picture": "/static/img/products/salt-and-pepper-shakers.jpg",
+            "name": "Ceramic Cisco Mug",
+            "description": "Sit back and enjoy a cup of coffee with this 300 ml capacity mug. .",
+            "picture": "/static/img/products/cisco-ceramic-mug.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 18,
+                "units": 7,
                 "nanos": 490000000
             },
             "categories": ["kitchen"]
         },
         {
             "id": "9SIQT8TOJO",
-            "name": "Bamboo Glass Jar",
-            "description": "This bamboo glass jar can hold 57 oz (1.7 l) and is perfect for any kitchen.",
-            "picture": "/static/img/products/bamboo-glass-jar.jpg",
+            "name": "Cisco Cap",
+            "description": "This six panel cap is perfect for any occasion. The cap is made from 100% organic cotton, making it lightweight and comfortable. Look no further for a stylish, breathable and ethically made cap.",
+            "picture": "/static/img/products/cisco-cap.png",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 5,
+                "units": 19,
                 "nanos": 490000000
             },
-            "categories": ["kitchen"]
+            "categories": ["beauty"]
         },
         {
             "id": "6E92ZMYYFZ",
-            "name": "Mug",
-            "description": "A simple mug with a mustard interior.",
-            "picture": "/static/img/products/mug.jpg",
+            "name": "Cisco Pen",
+            "description": "These bright pens and ready for all your notes. Featuring soft touch rubberized finish and super smooth gel writing ink.",
+            "picture": "/static/img/products/cisco-pen.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 8,
+                "units": 2,
                 "nanos": 990000000
             },
-            "categories": ["kitchen"]
+            "categories": ["home"]
         }
     ]
 }
