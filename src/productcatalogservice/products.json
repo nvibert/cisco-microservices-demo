@@ -3,7 +3,7 @@
         {
             "id": "OLJCESPC7Z",
             "name": "WebEx Glasses",
-            "description": "Provides an immersive collaboration experience that supports natural voice commands, gestures on touchpad, and head movements to accomplish routine tasks.",
+            "description": "Provides an immersive collaboration experience.",
             "picture": "/static/img/products/webex-glasses.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
@@ -27,7 +27,7 @@
         {
             "id": "1YMWWN1N4O",
             "name": "Cisco 40th Anniversary Tumbler - White",
-            "description": "Keep your drinks at the perfect temperature with this sleek thermal tumbler. Crafted from double-wall stainless steel with copper vacuum insulation, it ensures superior temperature retention. Ideal for both hot and cold beverages, this tumbler combines function and style seamlessly!",
+            "description": "Keep your drinks at the perfect temperature with this sleek thermal tumbler.",
             "picture": "/static/img/products/tumbler.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
@@ -39,7 +39,7 @@
         {
             "id": "L9ECAV7KIM",
             "name": "Cisco Socks",
-            "description": "It is time to level up your sock collection! Whether at the office or lounging at home, these socks will keep you comfy and looking stylish.",
+            "description": "It is time to level up your sock collection!",
             "picture": "/static/img/products/cisco-socks.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
@@ -63,7 +63,7 @@
         {
             "id": "0PUK6V6EV0",
             "name": "Cisco Meraki Playing Cards",
-            "description": "Standard deck of playing cards, sized 57 x 87mm. Printed on the back of the cards with the Cisco Meraki design on a black background.",
+            "description": "Standard deck of playing cards, sized 57 x 87mm.",
             "picture": "/static/img/products/cisco-meraki-cards.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
@@ -75,7 +75,7 @@
         {
             "id": "LS4PSXUNUM",
             "name": "Ceramic Cisco Mug",
-            "description": "Sit back and enjoy a cup of coffee with this 300 ml capacity mug. .",
+            "description": "Sit back and enjoy a cup of coffee with this 300 ml capacity mug.",
             "picture": "/static/img/products/cisco-ceramic-mug.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
@@ -87,7 +87,7 @@
         {
             "id": "9SIQT8TOJO",
             "name": "Cisco Cap",
-            "description": "This six panel cap is perfect for any occasion. The cap is made from 100% organic cotton, making it lightweight and comfortable. Look no further for a stylish, breathable and ethically made cap.",
+            "description": "This six panel cap is perfect for any occasion.",
             "picture": "/static/img/products/cisco-cap.png",
             "priceUsd": {
                 "currencyCode": "USD",
@@ -99,7 +99,7 @@
         {
             "id": "6E92ZMYYFZ",
             "name": "Cisco Pen",
-            "description": "These bright pens and ready for all your notes. Featuring soft touch rubberized finish and super smooth gel writing ink.",
+            "description": "These bright pens and ready for all your notes.",
             "picture": "/static/img/products/cisco-pen.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
